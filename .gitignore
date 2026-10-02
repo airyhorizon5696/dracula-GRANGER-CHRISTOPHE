@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+# Cache de vite
+.vite/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/*
+!.vscode/extensions.json
